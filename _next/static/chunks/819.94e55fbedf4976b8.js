@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[819],{819:(s,e,a)=>{a.r(e),a.d(e,{SplashScreenWeb:()=>h});var c=a(724);class h extends c.E_{async show(s){}async hide(s){}}}}]);
+//# sourceMappingURL=819.94e55fbedf4976b8.js.map
